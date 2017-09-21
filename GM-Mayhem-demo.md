@@ -43,7 +43,8 @@ I see the player learning from the monologues and babbleings of the protagonist.
 The player must be familier with hack'n'slash tactics and platform navigations(aka jumping). There is room tactically planning your jumps to avoid enemy fire and attacks. it would be smart of the player to defeat the enemies and get the Monster page first so that it isn't constantly spawning monsters anymore.
 
 ## Screenshots
-![Space Steamship](https://i.scdn.co/image/0d367f0b872c1a20c92a25d4c511de7c262bbafa)
+![Basic Level Concept](https://ibb.co/iJsEdk)
+![Enemy Spawn Concept](https://ibb.co/gXEGr5)
 
 ## Other
 TBD
