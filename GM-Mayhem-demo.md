@@ -43,9 +43,9 @@ I see the player learning from the monologues and babbleings of the protagonist.
 The player must be familier with hack'n'slash tactics and platform navigations(aka jumping). There is room tactically planning your jumps to avoid enemy fire and attacks. it would be smart of the player to defeat the enemies and get the Monster page first so that it isn't constantly spawning monsters anymore.
 
 ## Screenshots
-- ![Basic Level Concept](https://ibb.co/iJsEdk)
+![Basic Level Concept](https://github.com/deb2610/IGME-230/blob/master/GM-Mayhem1.png)
+![Enemy Spawn Concept](https://github.com/deb2610/IGME-230/blob/master/GM-Mayhem2.png)
 
-- ![Enemy Spawn Concept](https://ibb.co/gXEGr5)
 
 ## Other
 TBD
